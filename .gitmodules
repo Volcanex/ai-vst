@@ -4,3 +4,6 @@
 [submodule "Audio-Effects"]
 	path = Audio-Effects
 	url = https://github.com/juandagilc/Audio-Effects
+[submodule "vst3sdk"]
+	path = vst3sdk
+	url = https://github.com/steinbergmedia/vst3sdk
