@@ -1,0 +1,6 @@
+[submodule "MrsWatson"]
+	path = MrsWatson
+	url = https://github.com/teragonaudio/MrsWatson
+[submodule "Audio-Effects"]
+	path = Audio-Effects
+	url = https://github.com/juandagilc/Audio-Effects
